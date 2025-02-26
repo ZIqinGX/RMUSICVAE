@@ -1,3 +1,5 @@
+Src from https://github.com/bbanar2/Exploring_XAI_in_GenMus_via_LSR
+
 # Exploring XAI for the Arts: Explaining Latent Space in Generative Music
 
 Augmentation of Ashis Pati and Alexander Lerch's "Latent Space Regularization for Explicit Control of Musical Attributes" (2019) and "Attribute-based Regularization of Latent Spaces for Variational Auto-Encoders" (2020).
