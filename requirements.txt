@@ -1,0 +1,15 @@
+Click==7.0
+librosa==0.8.1
+matplotlib==2.2.3
+music21==6.7.1
+numpy==1.15.1
+pretty-midi==0.2.9
+pymongo==3.11.4
+scikit-learn==0.19.2
+scipy>=1.0.0
+seaborn==0.11.1
+tensorboard-logger==0.1.0
+torch>=2.0.0  # Or another version compatible with your setup
+  # Or another version compatible with your setup
+torchvision>=0.21.0  # Use a compatible version
+tqdm==4.25.0
